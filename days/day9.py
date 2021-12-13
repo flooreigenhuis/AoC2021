@@ -115,11 +115,5 @@ def day9_2():
     print(f"score: {str(basins[0] * basins[1] * basins[2])}")
 
 
-
-
-
-
-
-
 if __name__ == "__main__":
     day9_2()
